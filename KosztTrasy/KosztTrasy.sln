@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KosztTrasy", "KosztTrasy.csproj", "{B52916D2-BAFD-40AC-B0B4-256931B25687}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Koszt Trasy", "..\Koszt Trasy\Koszt Trasy.vdproj", "{78B9DF64-E48C-4BC9-AEAD-CDF8121D5107}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B52916D2-BAFD-40AC-B0B4-256931B25687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B52916D2-BAFD-40AC-B0B4-256931B25687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B52916D2-BAFD-40AC-B0B4-256931B25687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B52916D2-BAFD-40AC-B0B4-256931B25687}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78B9DF64-E48C-4BC9-AEAD-CDF8121D5107}.Debug|Any CPU.ActiveCfg = Debug
+		{78B9DF64-E48C-4BC9-AEAD-CDF8121D5107}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D0C315D-E587-4F03-B354-4D93BC470236}
+	EndGlobalSection
+EndGlobal

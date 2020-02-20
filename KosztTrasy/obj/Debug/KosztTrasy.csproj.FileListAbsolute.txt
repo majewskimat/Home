@@ -1,0 +1,8 @@
+C:\Users\matma\source\repos\KosztTrasy\bin\Debug\KosztTrasy.exe.config
+C:\Users\matma\source\repos\KosztTrasy\bin\Debug\KosztTrasy.exe
+C:\Users\matma\source\repos\KosztTrasy\bin\Debug\KosztTrasy.pdb
+C:\Users\matma\source\repos\KosztTrasy\obj\Debug\KosztTrasy.Form1.resources
+C:\Users\matma\source\repos\KosztTrasy\obj\Debug\KosztTrasy.Properties.Resources.resources
+C:\Users\matma\source\repos\KosztTrasy\obj\Debug\KosztTrasy.csproj.GenerateResource.cache
+C:\Users\matma\source\repos\KosztTrasy\obj\Debug\KosztTrasy.exe
+C:\Users\matma\source\repos\KosztTrasy\obj\Debug\KosztTrasy.pdb
