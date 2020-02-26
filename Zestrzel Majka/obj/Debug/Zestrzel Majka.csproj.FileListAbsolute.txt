@@ -1,0 +1,9 @@
+C:\Users\matma\source\repos\Zestrzel Majka\bin\Debug\Zestrzel Majka.exe.config
+C:\Users\matma\source\repos\Zestrzel Majka\bin\Debug\Zestrzel Majka.exe
+C:\Users\matma\source\repos\Zestrzel Majka\bin\Debug\Zestrzel Majka.pdb
+C:\Users\matma\source\repos\Zestrzel Majka\obj\Debug\Zestrzel Majka.csprojAssemblyReference.cache
+C:\Users\matma\source\repos\Zestrzel Majka\obj\Debug\Zestrzel_Majka.ZestrzelMajka.resources
+C:\Users\matma\source\repos\Zestrzel Majka\obj\Debug\Zestrzel_Majka.Properties.Resources.resources
+C:\Users\matma\source\repos\Zestrzel Majka\obj\Debug\Zestrzel Majka.csproj.GenerateResource.cache
+C:\Users\matma\source\repos\Zestrzel Majka\obj\Debug\Zestrzel Majka.exe
+C:\Users\matma\source\repos\Zestrzel Majka\obj\Debug\Zestrzel Majka.pdb

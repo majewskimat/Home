@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zestrzel Majka", "Zestrzel Majka.csproj", "{54FBDA72-F599-4A42-8916-A47B40583E8B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Zestrzel Majka App", "..\Zestrzel Majka App\Zestrzel Majka App.vdproj", "{37078EFA-C866-4F48-98EB-E703783291E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54FBDA72-F599-4A42-8916-A47B40583E8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54FBDA72-F599-4A42-8916-A47B40583E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54FBDA72-F599-4A42-8916-A47B40583E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54FBDA72-F599-4A42-8916-A47B40583E8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37078EFA-C866-4F48-98EB-E703783291E4}.Debug|Any CPU.ActiveCfg = Debug
+		{37078EFA-C866-4F48-98EB-E703783291E4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E21E383-1987-47F6-B40D-3C9BE515FBC0}
+	EndGlobalSection
+EndGlobal
