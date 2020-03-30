@@ -1,0 +1,7 @@
+C:\Users\matma\Desktop\TopTenPops\bin\Debug\TopTenPops.exe.config
+C:\Users\matma\Desktop\TopTenPops\bin\Debug\TopTenPops.exe
+C:\Users\matma\Desktop\TopTenPops\bin\Debug\TopTenPops.pdb
+C:\Users\matma\Desktop\TopTenPops\obj\Debug\TopTenPops.csprojAssemblyReference.cache
+C:\Users\matma\Desktop\TopTenPops\obj\Debug\TopTenPops.exe
+C:\Users\matma\Desktop\TopTenPops\obj\Debug\TopTenPops.pdb
+C:\Users\matma\Desktop\TopTenPops\obj\Debug\TopTenPops.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+C:\Users\matma\source\repos\AllCountries\AllCountries\bin\Debug\AllCountries.exe.config
+C:\Users\matma\source\repos\AllCountries\AllCountries\bin\Debug\AllCountries.exe
+C:\Users\matma\source\repos\AllCountries\AllCountries\bin\Debug\AllCountries.pdb
+C:\Users\matma\source\repos\AllCountries\AllCountries\obj\Debug\AllCountries.csprojAssemblyReference.cache
+C:\Users\matma\source\repos\AllCountries\AllCountries\obj\Debug\AllCountries.csproj.CoreCompileInputs.cache
+C:\Users\matma\source\repos\AllCountries\AllCountries\obj\Debug\AllCountries.exe
+C:\Users\matma\source\repos\AllCountries\AllCountries\obj\Debug\AllCountries.pdb
