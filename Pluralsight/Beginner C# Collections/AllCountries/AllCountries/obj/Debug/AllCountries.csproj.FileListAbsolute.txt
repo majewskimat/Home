@@ -5,3 +5,10 @@ C:\Users\matma\source\repos\AllCountries\AllCountries\obj\Debug\AllCountries.csp
 C:\Users\matma\source\repos\AllCountries\AllCountries\obj\Debug\AllCountries.csproj.CoreCompileInputs.cache
 C:\Users\matma\source\repos\AllCountries\AllCountries\obj\Debug\AllCountries.exe
 C:\Users\matma\source\repos\AllCountries\AllCountries\obj\Debug\AllCountries.pdb
+C:\Users\matma\source\repos\Pluralsight\Beginner C# Collections\AllCountries\AllCountries\bin\Debug\AllCountries.exe.config
+C:\Users\matma\source\repos\Pluralsight\Beginner C# Collections\AllCountries\AllCountries\bin\Debug\AllCountries.exe
+C:\Users\matma\source\repos\Pluralsight\Beginner C# Collections\AllCountries\AllCountries\bin\Debug\AllCountries.pdb
+C:\Users\matma\source\repos\Pluralsight\Beginner C# Collections\AllCountries\AllCountries\obj\Debug\AllCountries.csprojAssemblyReference.cache
+C:\Users\matma\source\repos\Pluralsight\Beginner C# Collections\AllCountries\AllCountries\obj\Debug\AllCountries.csproj.CoreCompileInputs.cache
+C:\Users\matma\source\repos\Pluralsight\Beginner C# Collections\AllCountries\AllCountries\obj\Debug\AllCountries.exe
+C:\Users\matma\source\repos\Pluralsight\Beginner C# Collections\AllCountries\AllCountries\obj\Debug\AllCountries.pdb
