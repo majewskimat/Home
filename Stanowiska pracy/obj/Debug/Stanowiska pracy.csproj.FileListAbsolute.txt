@@ -1,0 +1,10 @@
+C:\Users\matma\source\repos\Stanowiska pracy\bin\Debug\Stanowiska pracy.exe.config
+C:\Users\matma\source\repos\Stanowiska pracy\bin\Debug\Stanowiska pracy.exe
+C:\Users\matma\source\repos\Stanowiska pracy\bin\Debug\Stanowiska pracy.pdb
+C:\Users\matma\source\repos\Stanowiska pracy\obj\Debug\Stanowiska pracy.csprojAssemblyReference.cache
+C:\Users\matma\source\repos\Stanowiska pracy\obj\Debug\Stanowiska_pracy.Form1.resources
+C:\Users\matma\source\repos\Stanowiska pracy\obj\Debug\Stanowiska_pracy.Properties.Resources.resources
+C:\Users\matma\source\repos\Stanowiska pracy\obj\Debug\Stanowiska pracy.csproj.GenerateResource.cache
+C:\Users\matma\source\repos\Stanowiska pracy\obj\Debug\Stanowiska pracy.exe
+C:\Users\matma\source\repos\Stanowiska pracy\obj\Debug\Stanowiska pracy.pdb
+C:\Users\matma\source\repos\Stanowiska pracy\obj\Debug\Stanowiska pracy.csproj.CoreCompileInputs.cache
