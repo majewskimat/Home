@@ -1,0 +1,7 @@
+C:\Users\matma\source\repos\Pluralsight_Becominga.NETDeveloper\Pluralsight_Becominga.NETDeveloper\bin\Debug\Pluralsight_Becominga.NETDeveloper.exe.config
+C:\Users\matma\source\repos\Pluralsight_Becominga.NETDeveloper\Pluralsight_Becominga.NETDeveloper\bin\Debug\Pluralsight_Becominga.NETDeveloper.exe
+C:\Users\matma\source\repos\Pluralsight_Becominga.NETDeveloper\Pluralsight_Becominga.NETDeveloper\bin\Debug\Pluralsight_Becominga.NETDeveloper.pdb
+C:\Users\matma\source\repos\Pluralsight_Becominga.NETDeveloper\Pluralsight_Becominga.NETDeveloper\obj\Debug\Pluralsight_Becominga.NETDeveloper.csprojAssemblyReference.cache
+C:\Users\matma\source\repos\Pluralsight_Becominga.NETDeveloper\Pluralsight_Becominga.NETDeveloper\obj\Debug\Pluralsight_Becominga.NETDeveloper.csproj.CoreCompileInputs.cache
+C:\Users\matma\source\repos\Pluralsight_Becominga.NETDeveloper\Pluralsight_Becominga.NETDeveloper\obj\Debug\Pluralsight_Becominga.NETDeveloper.exe
+C:\Users\matma\source\repos\Pluralsight_Becominga.NETDeveloper\Pluralsight_Becominga.NETDeveloper\obj\Debug\Pluralsight_Becominga.NETDeveloper.pdb
