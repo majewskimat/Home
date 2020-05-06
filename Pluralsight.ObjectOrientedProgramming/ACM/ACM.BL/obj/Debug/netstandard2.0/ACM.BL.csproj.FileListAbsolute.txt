@@ -7,3 +7,12 @@ C:\Users\matma\source\repos\Pluralsight.ObjectOrientedProgramming\ACM\ACM.BL\obj
 C:\Users\matma\source\repos\Pluralsight.ObjectOrientedProgramming\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.AssemblyInfo.cs
 C:\Users\matma\source\repos\Pluralsight.ObjectOrientedProgramming\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.dll
 C:\Users\matma\source\repos\Pluralsight.ObjectOrientedProgramming\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.pdb
+C:\Users\matma\source\repos\Home\Pluralsight.ObjectOrientedProgramming\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.csprojAssemblyReference.cache
+C:\Users\matma\source\repos\Home\Pluralsight.ObjectOrientedProgramming\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.csproj.CoreCompileInputs.cache
+C:\Users\matma\source\repos\Home\Pluralsight.ObjectOrientedProgramming\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.AssemblyInfoInputs.cache
+C:\Users\matma\source\repos\Home\Pluralsight.ObjectOrientedProgramming\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.AssemblyInfo.cs
+C:\Users\matma\source\repos\Home\Pluralsight.ObjectOrientedProgramming\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.dll
+C:\Users\matma\source\repos\Home\Pluralsight.ObjectOrientedProgramming\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.pdb
+C:\Users\matma\source\repos\Home\Pluralsight.ObjectOrientedProgramming\ACM\ACM.BL\bin\Debug\netstandard2.0\ACM.BL.deps.json
+C:\Users\matma\source\repos\Home\Pluralsight.ObjectOrientedProgramming\ACM\ACM.BL\bin\Debug\netstandard2.0\ACM.BL.dll
+C:\Users\matma\source\repos\Home\Pluralsight.ObjectOrientedProgramming\ACM\ACM.BL\bin\Debug\netstandard2.0\ACM.BL.pdb

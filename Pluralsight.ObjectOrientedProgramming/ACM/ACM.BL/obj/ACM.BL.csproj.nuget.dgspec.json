@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matma\\source\\repos\\Pluralsight.ObjectOrientedProgramming\\ACM\\ACM.BL\\ACM.BL.csproj": {}
+    "C:\\Users\\matma\\source\\repos\\Home\\Pluralsight.ObjectOrientedProgramming\\ACM\\ACM.BL\\ACM.BL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matma\\source\\repos\\Pluralsight.ObjectOrientedProgramming\\ACM\\ACM.BL\\ACM.BL.csproj": {
+    "C:\\Users\\matma\\source\\repos\\Home\\Pluralsight.ObjectOrientedProgramming\\ACM\\ACM.BL\\ACM.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matma\\source\\repos\\Pluralsight.ObjectOrientedProgramming\\ACM\\ACM.BL\\ACM.BL.csproj",
+        "projectUniqueName": "C:\\Users\\matma\\source\\repos\\Home\\Pluralsight.ObjectOrientedProgramming\\ACM\\ACM.BL\\ACM.BL.csproj",
         "projectName": "ACM.BL",
-        "projectPath": "C:\\Users\\matma\\source\\repos\\Pluralsight.ObjectOrientedProgramming\\ACM\\ACM.BL\\ACM.BL.csproj",
+        "projectPath": "C:\\Users\\matma\\source\\repos\\Home\\Pluralsight.ObjectOrientedProgramming\\ACM\\ACM.BL\\ACM.BL.csproj",
         "packagesPath": "C:\\Users\\matma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matma\\source\\repos\\Pluralsight.ObjectOrientedProgramming\\ACM\\ACM.BL\\obj\\",
+        "outputPath": "C:\\Users\\matma\\source\\repos\\Home\\Pluralsight.ObjectOrientedProgramming\\ACM\\ACM.BL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\matma\\AppData\\Roaming\\NuGet\\NuGet.Config",

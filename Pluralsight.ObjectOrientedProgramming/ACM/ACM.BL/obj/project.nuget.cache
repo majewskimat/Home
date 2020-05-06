@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U9J/XpTfK5Rlo46x60QWgxQ1oXYIweWx9Y2izT1Hh5wk7y9E00uQdgQz1zYHpAqMxDQsLQA7D8Quh4bmtMyRdw==",
+  "dgSpecHash": "q0G1sZ9MnY8fpYigmaTDaNgspgImwy9e332qW8YhJ+STNd9tXwle3eEJ+H1420zR3aryLrEw22p1KOF0kYhgfw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\matma\\source\\repos\\Pluralsight.ObjectOrientedProgramming\\ACM\\ACM.BL\\ACM.BL.csproj",
+  "projectFilePath": "C:\\Users\\matma\\source\\repos\\Home\\Pluralsight.ObjectOrientedProgramming\\ACM\\ACM.BL\\ACM.BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\matma\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\matma\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

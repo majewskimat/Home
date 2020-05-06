@@ -25,6 +25,9 @@ namespace ACM.BL
                 product.ProductDescription = "Assorted Size Set of 4 Bright Blue Mini Sunflowers";
                 product.CurrentPrice = 13.26M;
             }
+            Object myObject = new Object();
+            Console.WriteLine($"Object: {myObject.ToString()}");
+            Console.WriteLine($"Product: {product.ToString()}");
             return product;
         }
         /// <summary>
@@ -32,8 +35,29 @@ namespace ACM.BL
         /// </summary>
         public bool Save(Product product)
         {
-            // Code that saves the passed in product
-            return true;
+            var success = true;
+
+            if (product.HasChanged)
+            {
+                if (product.IsValid)
+                {
+                    if (product.IsNew)
+                    {
+                        //Call an Insert Stored Procedure
+                    }
+                    else
+                    {
+                        //Call an Update Stored Procedure
+                    }
+                }
+                else
+                {
+                    success = false;
+                }
+            }
+            return success;
         }
+            
+        
     }
 }
