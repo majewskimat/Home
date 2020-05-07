@@ -26,7 +26,11 @@
         },
         "frameworks": {
           "netstandard2.0": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\matma\\source\\repos\\Home\\Pluralsight.ObjectOrientedProgramming\\ACM\\Acme.Common\\Acme.Common.csproj": {
+                "projectPath": "C:\\Users\\matma\\source\\repos\\Home\\Pluralsight.ObjectOrientedProgramming\\ACM\\Acme.Common\\Acme.Common.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -57,6 +61,17 @@
           "warn": true,
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
+      }
+    },
+    "C:\\Users\\matma\\source\\repos\\Home\\Pluralsight.ObjectOrientedProgramming\\ACM\\Acme.Common\\Acme.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\matma\\source\\repos\\Home\\Pluralsight.ObjectOrientedProgramming\\ACM\\Acme.Common\\Acme.Common.csproj",
+        "projectName": "Acme.Common",
+        "projectPath": "C:\\Users\\matma\\source\\repos\\Home\\Pluralsight.ObjectOrientedProgramming\\ACM\\Acme.Common\\Acme.Common.csproj"
+      },
+      "frameworks": {
+        "net472": {}
       }
     }
   }
