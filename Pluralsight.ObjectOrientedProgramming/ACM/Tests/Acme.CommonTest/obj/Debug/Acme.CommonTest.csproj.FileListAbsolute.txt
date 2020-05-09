@@ -17,3 +17,5 @@ C:\Users\matma\source\repos\Home\Pluralsight.ObjectOrientedProgramming\ACM\Tests
 C:\Users\matma\source\repos\Home\Pluralsight.ObjectOrientedProgramming\ACM\Tests\Acme.CommonTest\obj\Debug\Acme.CommonTest.csproj.CopyComplete
 C:\Users\matma\source\repos\Home\Pluralsight.ObjectOrientedProgramming\ACM\Tests\Acme.CommonTest\obj\Debug\Acme.CommonTest.dll
 C:\Users\matma\source\repos\Home\Pluralsight.ObjectOrientedProgramming\ACM\Tests\Acme.CommonTest\obj\Debug\Acme.CommonTest.pdb
+C:\Users\matma\source\repos\Home\Pluralsight.ObjectOrientedProgramming\ACM\Tests\Acme.CommonTest\bin\Debug\ACM.BL.dll
+C:\Users\matma\source\repos\Home\Pluralsight.ObjectOrientedProgramming\ACM\Tests\Acme.CommonTest\bin\Debug\ACM.BL.pdb
